@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>CusWidgets/Bubble.qml</file>
+        <file>CusWidgets/ImageButton.qml</file>
+        <file>assets/icons/skin_icon.png</file>
+        <file>ChooseTheme.qml</file>
+        <file>CusWidgets/CusVSlider.qml</file>
+        <file>assets/icons/volume.png</file>
+        <file>CusWidgets/CusSlider.qml</file>
+    </qresource>
+</RCC>
